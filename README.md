@@ -16,4 +16,6 @@ https://www.andreaperlato.com/mlpost/deal-multicollinearity-with-ridge-regressio
 
 Variance Inflation Factor: https://www.investopedia.com/terms/v/variance-inflation-factor.asp
 
+Regularisation in regression: https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net
+
 
