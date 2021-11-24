@@ -3,6 +3,8 @@ Resources to prepare for an ML interview
 
 An overview: https://www.interviewbit.com/machine-learning-interview-questions/
 
+Bias-Variance Tradeoff: https://towardsdatascience.com/understanding-the-bias-variance-tradeoff-165e6942b229
+
 Bayes Theorem: https://machinelearningmastery.com/bayes-theorem-for-machine-learning/
 
 Naive Bayes: https://machinelearningmastery.com/classification-as-conditional-probability-and-the-naive-bayes-algorithm/
@@ -12,3 +14,5 @@ Kernel Density Estimation: https://jakevdp.github.io/PythonDataScienceHandbook/0
 How does Lasso deal with multicollinearity problem?: https://www.andreaperlato.com/mlpost/deal-multicollinearity-with-lasso-regression/
 
 Variance Inflation Factor: https://www.investopedia.com/terms/v/variance-inflation-factor.asp
+
+
