@@ -11,7 +11,8 @@ Naive Bayes: https://machinelearningmastery.com/classification-as-conditional-pr
 
 Kernel Density Estimation: https://jakevdp.github.io/PythonDataScienceHandbook/05.13-kernel-density-estimation.html
 
-How does Lasso deal with multicollinearity problem?: https://www.andreaperlato.com/mlpost/deal-multicollinearity-with-lasso-regression/
+How does Lasso or Ridge deal with multicollinearity problem?: https://www.andreaperlato.com/mlpost/deal-multicollinearity-with-lasso-regression/
+https://www.andreaperlato.com/mlpost/deal-multicollinearity-with-ridge-regression/
 
 Variance Inflation Factor: https://www.investopedia.com/terms/v/variance-inflation-factor.asp
 
