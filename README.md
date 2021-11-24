@@ -6,3 +6,5 @@ An overview: https://www.interviewbit.com/machine-learning-interview-questions/
 Bayes Theorem: https://machinelearningmastery.com/bayes-theorem-for-machine-learning/
 
 Naive Bayes: https://machinelearningmastery.com/classification-as-conditional-probability-and-the-naive-bayes-algorithm/
+
+Kernel Density Estimation: https://jakevdp.github.io/PythonDataScienceHandbook/05.13-kernel-density-estimation.html
