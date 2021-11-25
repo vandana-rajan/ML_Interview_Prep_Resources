@@ -19,3 +19,4 @@ Variance Inflation Factor: https://www.investopedia.com/terms/v/variance-inflati
 Regularisation in regression: https://www.datacamp.com/community/tutorials/tutorial-ridge-lasso-elastic-net
 
 
+Logistic Regression: https://christophm.github.io/interpretable-ml-book/logistic.html
