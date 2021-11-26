@@ -22,3 +22,5 @@ Regularisation in regression: https://www.datacamp.com/community/tutorials/tutor
 Logistic Regression: https://christophm.github.io/interpretable-ml-book/logistic.html
 
 Decision Trees: https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/ Code Example: https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/
+
+Principle Component Analysis (PCA): https://builtin.com/data-science/step-step-explanation-principal-component-analysis
