@@ -24,3 +24,5 @@ Logistic Regression: https://christophm.github.io/interpretable-ml-book/logistic
 Decision Trees: https://machinelearningmastery.com/classification-and-regression-trees-for-machine-learning/ Code Example: https://machinelearningmastery.com/implement-decision-tree-algorithm-scratch-python/
 
 Principle Component Analysis (PCA): https://builtin.com/data-science/step-step-explanation-principal-component-analysis
+
+RNN-LSTM-GRU: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
