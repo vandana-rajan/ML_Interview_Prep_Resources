@@ -40,3 +40,20 @@ num1 = '1234'
 num2 = '100'
 
 eval(num1) + eval(num2)
+
+# Given a string, find the first non-repeating character in it and return its index. 
+# If it doesn't exist, return -1. # Note: all the input strings are already lowercase.
+
+strng = "mmy name is Vandana"
+
+def solution(s):
+    frequency = {}
+    for i in s:
+        if i not in frequency:
+            frequency[i] = 1
+        else:
+            frequency[i] +=1
+    for i in range(len(s)):
+        if frequency[s[i]] == 1:
+            return i
+    return -1
