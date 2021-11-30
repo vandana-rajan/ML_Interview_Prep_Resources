@@ -28,3 +28,5 @@ Principle Component Analysis (PCA): https://builtin.com/data-science/step-step-e
 RNN-LSTM-GRU: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21
 
 Word2Vec: https://jalammar.github.io/illustrated-word2vec/
+
+Variational Auto Encoders: https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73
