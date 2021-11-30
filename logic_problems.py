@@ -32,3 +32,11 @@ def avg_wrd_len(s):
 
 out = avg_wrd_len(sentence1)
 print(out)
+
+# Given two non-negative integers num1 and num2 represented as string, return the sum of num1 and num2.
+# You must not use any built-in BigInteger library or convert the inputs to integer directly.
+
+num1 = '1234'
+num2 = '100'
+
+eval(num1) + eval(num2)
