@@ -1,7 +1,6 @@
 I had a 40 min interview with Dr. Ozan Oktay from MS Research on 1st Dec 2021. It was mostly about my research experience. 
 There were quite a few technical discussion as well. Especially connecting my DSP concepts with DL concepts.
 Example questions: How is BERT parameterised? What is CPC loss? In self-supervised learning for text, we can mask out some text and ask the network to predict the missing text, 
-how are such self-supervised models trained? What is the biggest ML challenge I have experienced in my research? I said Domain generalisation. Next question was how can that be overcome?
-What are the parameters of CNN layer? Are CNN filters orthogonal to each other? What is sparse coding? Can you relate sparse coding to CNN filter parameters? Basis functions, orthogonality, eigen vectors, PCA.
+how are such self-supervised models trained? What is the biggest ML challenge I have experienced in my research? I said Domain generalisation. Next question was how can that be overcome? What is cross-entropy loss? How is it related to likelihood? What are the parameters of CNN layer? Are CNN filters orthogonal to each other? What is sparse coding? Can you relate sparse coding to CNN filter parameters? Basis functions, orthogonality, eigen vectors, PCA.
 
 Some other questions like how was my experience working in MathWorks, what are some good things I got from that experience, any stressful situations encountered etc.
