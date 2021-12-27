@@ -57,3 +57,25 @@ def solution(s):
         if frequency[s[i]] == 1:
             return i
     return -1
+
+# Number Complement
+
+def flip_bin(bnum):
+    c_num = ""
+    for i in range(len(bnum)):
+        if bnum[i] == '0':
+            c_num+='1'
+        elif bnum[i] == '1':
+            c_num+='0'
+    return c_num
+
+ def findComplement(num):
+    """
+    :type num: int
+    :rtype: int
+    """
+    print(num)
+    bin_num = bin(num) # string
+    bin_num = bin_num[2:]
+    c_num = flip_bin(bin_num)
+    return int(c_num,2)
