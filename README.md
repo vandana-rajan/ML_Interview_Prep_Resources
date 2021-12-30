@@ -30,3 +30,5 @@ RNN-LSTM-GRU: https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-
 Word2Vec: https://jalammar.github.io/illustrated-word2vec/
 
 Variational Auto Encoders: https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73
+
+Graph NN: https://theaisummer.com/graph-convolutional-networks/
