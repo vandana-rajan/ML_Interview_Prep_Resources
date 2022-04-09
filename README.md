@@ -34,3 +34,5 @@ Variational Auto Encoders: https://towardsdatascience.com/understanding-variatio
 Graph NN: https://theaisummer.com/graph-convolutional-networks/
 
 Laplacian: https://mbernste.github.io/posts/laplacian_matrix/
+
+Best tutorial on transformers and attention: Sebastian Raschka's playlist in YouTube 
