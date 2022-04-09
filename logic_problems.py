@@ -79,3 +79,19 @@ def flip_bin(bnum):
     bin_num = bin_num[2:]
     c_num = flip_bin(bin_num)
     return int(c_num,2)
+
+# 6. Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+def twoSum(self, nums: List[int], target: int) -> List[int]:
+        """
+        :type nums: List[int]
+        :type target: int
+        :rtype: List[int]
+        """
+        for i in range(len(nums)-1):
+            num1 = nums.pop(0)
+            sums = [x+num1 for x in nums]
+            if target in sums:
+                ind1 = i
+                ind2 = sums.index(target)+i+1
+                out = [ind1, ind2]
