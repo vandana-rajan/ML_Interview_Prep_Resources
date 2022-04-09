@@ -33,7 +33,7 @@ def avg_wrd_len(s):
 out = avg_wrd_len(sentence1)
 print(out)
 
-# Given two non-negative integers num1 and num2 represented as string, return the sum of num1 and num2.
+# 3. Given two non-negative integers num1 and num2 represented as string, return the sum of num1 and num2.
 # You must not use any built-in BigInteger library or convert the inputs to integer directly.
 
 num1 = '1234'
@@ -41,7 +41,7 @@ num2 = '100'
 
 eval(num1) + eval(num2)
 
-# Given a string, find the first non-repeating character in it and return its index. 
+# 4. Given a string, find the first non-repeating character in it and return its index. 
 # If it doesn't exist, return -1. # Note: all the input strings are already lowercase.
 
 strng = "mmy name is Vandana"
@@ -58,7 +58,7 @@ def solution(s):
             return i
     return -1
 
-# Number Complement
+# 5. Number Complement
 
 def flip_bin(bnum):
     c_num = ""
