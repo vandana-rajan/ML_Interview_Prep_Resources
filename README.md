@@ -36,3 +36,7 @@ Graph NN: https://theaisummer.com/graph-convolutional-networks/
 Laplacian: https://mbernste.github.io/posts/laplacian_matrix/
 
 Best tutorial on transformers and attention: Sebastian Raschka's playlist in YouTube 
+
+Why large weights are prohibited for neural networks?
+
+TLDR: Your weights are large, they are more sensitive to small noises in the input data. So, when a small noise is propagated through your network with large weights, it produces much different value in the output layer of the NN rather than a network with small weights. (https://datascience.stackexchange.com/questions/23287/why-large-weights-are-prohibited-in-neural-networks)
