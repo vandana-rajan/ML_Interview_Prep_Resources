@@ -40,3 +40,7 @@ Best tutorial on transformers and attention: Sebastian Raschka's playlist in You
 Why large weights are prohibited for neural networks?
 
 TLDR: Your weights are large, they are more sensitive to small noises in the input data. So, when a small noise is propagated through your network with large weights, it produces much different value in the output layer of the NN rather than a network with small weights. (https://datascience.stackexchange.com/questions/23287/why-large-weights-are-prohibited-in-neural-networks)
+
+Loss function convexity
+
+In the case of the Least Squares cost function for linear regression it is easy to check that the cost function is always convex regardless of the dataset. (https://jermwatt.github.io/machine_learning_refined/notes/5_Linear_regression/5_2_Least.html)
