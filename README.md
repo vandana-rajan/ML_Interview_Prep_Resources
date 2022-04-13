@@ -40,6 +40,7 @@ Best tutorial on transformers and attention: Sebastian Raschka's playlist in You
 Why large weights are prohibited for neural networks?
 
 TLDR: Your weights are large, they are more sensitive to small noises in the input data. So, when a small noise is propagated through your network with large weights, it produces much different value in the output layer of the NN rather than a network with small weights. (https://datascience.stackexchange.com/questions/23287/why-large-weights-are-prohibited-in-neural-networks)
+L2 regularization will help you control the weight growth. You should care not about the max values of weights, but about the weight distribution shape. Usually the weights form a Gaussian-like distribution, and if the tails are shallow, you can clip a lot of the tail without affecting accuracy. For example, the values might range from -4 to 4, but 90% of weights will be in the -2 to 2 range. In this case, it should be safe to clip all weights larger than 2, or less than -2. Plot the histogram of the weights to see what I mean.
 
 Loss function convexity
 
