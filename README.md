@@ -45,3 +45,7 @@ L2 regularization will help you control the weight growth. You should care not a
 Loss function convexity
 
 In the case of the Least Squares cost function for linear regression it is easy to check that the cost function is always convex regardless of the dataset. (https://jermwatt.github.io/machine_learning_refined/notes/5_Linear_regression/5_2_Least.html)
+
+NN optimization algos
+
+https://ruder.io/optimizing-gradient-descent/index.html#fn14
