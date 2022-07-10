@@ -49,3 +49,7 @@ In the case of the Least Squares cost function for linear regression it is easy 
 NN optimization algos
 
 https://ruder.io/optimizing-gradient-descent/index.html#fn14
+
+Covariance versus Correlation (what happens if we use correlation matrix instead of covariance matrix for PCA computation?)
+
+https://builtin.com/data-science/covariance-vs-correlation
