@@ -57,3 +57,7 @@ https://builtin.com/data-science/covariance-vs-correlation
 CCA
 
 https://gregorygundersen.com/blog/2018/07/17/cca/
+
+Convolution and Correlation
+
+http://www.dspguide.com/ch6/2.htm
