@@ -53,3 +53,7 @@ https://ruder.io/optimizing-gradient-descent/index.html#fn14
 Covariance versus Correlation (what happens if we use correlation matrix instead of covariance matrix for PCA computation?)
 
 https://builtin.com/data-science/covariance-vs-correlation
+
+CCA
+
+https://gregorygundersen.com/blog/2018/07/17/cca/
