@@ -61,3 +61,7 @@ https://gregorygundersen.com/blog/2018/07/17/cca/
 Convolution and Correlation
 
 http://www.dspguide.com/ch6/2.htm
+
+Difference between ROC-AUC score and AUC for PR curve
+
+https://glassboxmedicine.com/2019/03/02/measuring-performance-auprc/
