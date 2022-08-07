@@ -1,6 +1,33 @@
-I had a 40 min interview with Dr. Ozan Oktay from MS Research on 1st Dec 2021. It was mostly about my research experience. 
+I had a 40 min interview with Dr. XXXX from MS Research UK on 1st Dec 2021. It was mostly about my research experience. 
+
+
 There were quite a few technical discussion as well. Especially connecting my DSP concepts with DL concepts.
 Example questions: How is BERT parameterised? What is CPC loss? In self-supervised learning for text, we can mask out some text and ask the network to predict the missing text, 
 how are such self-supervised models trained? What is the biggest ML challenge I have experienced in my research? I said Domain generalisation. Next question was how can that be overcome? What is cross-entropy loss? How is it related to likelihood? What are the parameters of CNN layer? Are CNN filters orthogonal to each other? What is sparse coding? Can you relate sparse coding to CNN filter parameters? Basis functions, orthogonality, eigen vectors, PCA.
 
 Some other questions like how was my experience working in MathWorks, what are some good things I got from that experience, any stressful situations encountered etc.
+
+I had a couple of other interviews from other companies as well. Some of the common questions I was asked were,
+
+(1) What are neural networks? Under what conditions are they universal approximators? How are they trained (basics of backpropagation) ?
+
+(2) What is cross-entropy loss? How is it different from KL divergence?
+
+(3) Lot of questions relating to confusion matrix and related eval matrices like precision, recall, ROC-AUC, PR-AUC etc. When is one metric preferred over the other?
+What happens if labels are flipped, would precision and recall change?
+
+(4) Lots of questions related to overfitting and regularisation techniques. What actually happens with dropout regularisation (ensemble)? What is the difference between L1 and L2 regularisation? Exploding versus vanishing gradients. 
+
+(5) Code the following in Python: (a) KNN algorithm (b) PDF given some samples
+
+(6) What is Bayes theorem and Bayesian neural nets? What are prior, posterior and likelihood?
+
+(7) An alternative to cross-entropy loss? Why not any other loss? For classification probelms, why softmax and not argmax (differentiability)?
+
+(8) Activation functions.
+
+(9) Python: yield, generators, decorators (@), classes
+
+(10) For Samsung interview: Federated learning, distributed learning (basics). 
+
+(11) Stochastic GD and its variants. Explain any optimisation algorithm.
